@@ -31,4 +31,4 @@ DesiKart is a full-stack **MERN e-commerce application** with features like auth
 ---
 
 ## Live Demo
-[View Deployed App](https://beamish-caramel-667a06.netlify.app)
+[View Deployed App](https://darling-pika-60a743.netlify.app)
